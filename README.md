@@ -1,8 +1,10 @@
 ### Hi there 👋 my Name is Anjas Syifatul Anam a.k.a Izana
+Programming nerd who wants to know how it's works
 
-- 🌱 I’m currently working on Project Machina and Interactive Projection
+- 🌱 Currently working on Project Machina and Interactive Projection
 - 📫 Currently learning Arduino, Unity XR, VFX Graph.
-- 🔭 How to summon me : 
+- 📫 Interest in Technical Artist, UI Programming. Game Dev Anime stuff
+- 🔭 How to Summon me : 
   **Twitter** : https://twitter.com/IzanaX4D. **E-Mail** : anjassyifatulanam@gmail.com
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izanax4d&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
