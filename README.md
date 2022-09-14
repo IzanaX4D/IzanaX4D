@@ -7,8 +7,8 @@ Programming nerd who wants to know how it's works
 - 🔭 How to Summon me : 
   **Twitter** : https://twitter.com/IzanaX4D. **E-Mail** : anjassyifatulanam@gmail.com
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izanax4d&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izanax4d&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izanax4d&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izanax4d&theme=discord_old_blurple&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IzanaX4D/IzanaX4D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
