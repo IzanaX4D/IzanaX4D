@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 my Name is Anjas Syifatul Anam a.k.a Izana
+
+- 🌱 I’m currently working on Project Machina and Interactive Projection
+- 📫 Currently learning Arduino, Unity XR, VFX Graph.
+- 🔭 How to summon me : 
+  **Twitter** : https://twitter.com/IzanaX4D. **E-Mail** : anjassyifatulanam@gmail.com
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izanax4d&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izanax4d&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **IzanaX4D/IzanaX4D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
