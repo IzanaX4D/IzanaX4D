@@ -1,3 +1,6 @@
+### BOM BOM BAKUDAN
+![Alt Text](https://media.giphy.com/media/fWtJrVD5I2WIJRmfAw/giphy.gif)
+
 ### Hi there 👋 my Name is Anjas Syifatul Anam a.k.a Izana
 Programming nerd who wants to know how it's works
 
