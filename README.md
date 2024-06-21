@@ -10,6 +10,8 @@ Programming nerd who wants to know how it's works
 - 📫 Interest in Technical Artist, UI Programming. Game Dev Anime stuff
 - 🔭 How to Summon me : 
   **Twitter** : https://twitter.com/IzanaX4D. **E-Mail** : anjassyifatulanam@gmail.com
+
+You can hang out with in on my **Discord Channel** : https://discord.gg/bJuRmC98TH
   
 **Note** : When you first time DM me in social media adding word with "HappyProgramming! <YourName>" will make me fell comfortable
   
